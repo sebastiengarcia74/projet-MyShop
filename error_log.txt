@@ -61,3 +61,50 @@ PDO ERROR: SQLSTATE[HY000] [2002] No such file or directory storage in error_log
 PDO ERROR: SQLSTATE[HY000] [2002] No such file or directory storage in error_log.txt
 PDO ERROR: SQLSTATE[HY000] [2002] No such file or directory storage in error_log.txt
 PDO ERROR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for cosmejycosmejovi.mysql.db failed: Name or service not known storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [2002] No such file or directory storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'myshopadmin'@'localhost' (using password: NO) storage in error_log.txt
+PDO ERROR: SQLSTATE[HY000] [1044] Access denied for user 'myshopadmin'@'localhost' to database 'my_shop' storage in error_log.txt

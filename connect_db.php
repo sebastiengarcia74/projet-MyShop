@@ -2,8 +2,8 @@
     define("ERROR_LOG_FILE", "error_log.txt");
 
     $host = "localhost";
-    $username = "myshopadmin";
-    $password = "branleurmyshop";
+    $username = "SebGarcia";
+    $password = "Sebastien@2019";
     $port = "3306";
     $db = "my_shop";
     $pdo = connect_db($host, $username, $password, $port, $db);
